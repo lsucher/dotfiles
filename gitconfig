@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = l.sucher@gmx.de
+	name = Laura Sucher
